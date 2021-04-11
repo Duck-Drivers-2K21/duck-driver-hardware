@@ -1,2 +1,2 @@
 # duck-driver-hardware
-Hardware code (Raspberry Pie)
+Hardware code (Raspberry Pi)
